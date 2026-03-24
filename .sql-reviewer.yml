@@ -1,3 +1,5 @@
+# SQL Reviewer configuration file. 
+# This file reads the schema.sql file and matches src/queries.py to review the SQL queries.
 schema_file: schema.sql
 
 file_patterns:
