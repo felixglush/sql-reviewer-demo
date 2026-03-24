@@ -1,0 +1,4 @@
+schema_file: schema.sql
+
+file_patterns:
+  - "src/**/*.py"
